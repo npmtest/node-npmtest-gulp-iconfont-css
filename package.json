@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [gulp-iconfont-css (v2.1.0)](https://github.com/backflip/gulp-iconfont-css#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-iconfont-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-iconfont-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-iconfont-css.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-iconfont-css)",
+    "description": "#### basic test coverage for  [gulp-iconfont-css (v2.1.0)](https://github.com/backflip/gulp-iconfont-css#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-iconfont-css.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-iconfont-css) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-iconfont-css.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-iconfont-css)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "gulp-iconfont-css": "*",
